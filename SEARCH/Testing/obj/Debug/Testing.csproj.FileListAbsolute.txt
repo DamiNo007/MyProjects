@@ -1,0 +1,14 @@
+C:\C#\Testing\Testing\bin\Debug\Testing.exe.config
+C:\C#\Testing\Testing\bin\Debug\Testing.exe
+C:\C#\Testing\Testing\bin\Debug\Testing.pdb
+C:\C#\Testing\Testing\obj\Debug\Testing.csprojAssemblyReference.cache
+C:\C#\Testing\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+C:\C#\Testing\Testing\obj\Debug\Testing.exe
+C:\C#\Testing\Testing\obj\Debug\Testing.pdb
+C:\C#\SEARCH\Testing\bin\Debug\Testing.exe.config
+C:\C#\SEARCH\Testing\bin\Debug\Testing.exe
+C:\C#\SEARCH\Testing\bin\Debug\Testing.pdb
+C:\C#\SEARCH\Testing\obj\Debug\Testing.csprojAssemblyReference.cache
+C:\C#\SEARCH\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+C:\C#\SEARCH\Testing\obj\Debug\Testing.exe
+C:\C#\SEARCH\Testing\obj\Debug\Testing.pdb

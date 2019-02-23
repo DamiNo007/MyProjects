@@ -1,0 +1,7 @@
+C:\MyProjects\FileManager\FileManager\bin\Debug\FileManager.exe.config
+C:\MyProjects\FileManager\FileManager\bin\Debug\FileManager.exe
+C:\MyProjects\FileManager\FileManager\bin\Debug\FileManager.pdb
+C:\MyProjects\FileManager\FileManager\obj\Debug\FileManager.csprojAssemblyReference.cache
+C:\MyProjects\FileManager\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+C:\MyProjects\FileManager\FileManager\obj\Debug\FileManager.exe
+C:\MyProjects\FileManager\FileManager\obj\Debug\FileManager.pdb
